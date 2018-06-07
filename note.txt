@@ -1,0 +1,3 @@
+把本地库与远程库相互关联，git remote add origin [远程库]
+远程库就叫做origin
+git push -u origin master 把本地的master分支上的内容推送到远程库origin的默认分支上，并且会把本地的master和远程的master关联起来
