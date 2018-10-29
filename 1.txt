@@ -2,3 +2,4 @@ creating a new branch is quick&simple
 this is the second line
 new line
 merging without fast forward
+this is a new line in master
